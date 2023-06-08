@@ -65,11 +65,8 @@ body {
 header {flex: 1 1 100%; 
          display: flex; 
 }
-main { flex: 1 1 60%; 
-}
-
+main { flex: 1 1 60%; }
 /*navigation*/
-
 #TopNav {
         flex: 1 1 100%;
         display: flex;
@@ -79,13 +76,8 @@ main { flex: 1 1 60%;
         padding-top: 20px;
         padding-bottom: 15px;
         background: #02563D;
-        border-bottom: 10px solid #B94335;
-    }
-
-
-
+        border-bottom: 10px solid #B94335;}
 /* Section d'introduction avec image de fond et logo*/
-
 .introsection {
     width: 100%;
     height: 900px;
@@ -97,35 +89,22 @@ main { flex: 1 1 60%;
       rgba(255, 255, 255, 0), 
       rgb(255, 255, 255)
     ),
-
     /*image de fond*/
     url(sources/voiture.avif);
     background-size: cover;
     color: black;
     padding: 70px 100px ; 
-
-
     display: flex;
     justify-content: flex-start;
-    align-items: flex-end;
-   
-
-}
-
+    align-items: flex-end;}
 .fondvert {
     background-color: #02563D;
-    padding: 1px;
-}
-
+    padding: 1px;}
 /*logo de la marque*/
 .intrologo {
     height: 150px;
-    width: auto;
-}
-
-
+    width: auto;}
 /* Section ecologie */
-
 .ecologie {
     width: 100%;
     height: 500px;
@@ -133,36 +112,23 @@ main { flex: 1 1 60%;
     padding: 70px 100px ;
 
     display: flex;
-    align-items: center;
-
-}
-
+    align-items: center;}
 .ecologie-titre {
     height: 100%;
-    width: 50%;
-}
-
+    width: 50%;}
 .photo-ecologie {
     width: auto;
     height: 300px;
     margin-top: 30px;
-    border-radius: 15px;
-}
-
+    border-radius: 15px;}
 .ecologie-texte {
     height: 100%;
     width: 50%;
     gap: 20px;
-
-
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
-}
-
-
+    justify-content: flex-end;}
 /*section proces avec fond vert et circuit en image de fond*/
-
 .proces {
     width: 100%;
     height: 600px;
@@ -172,37 +138,22 @@ main { flex: 1 1 60%;
     background-image: url("sources/circuit.svg");
     background-repeat: no-repeat;
     background-position: center;
-    display: flex;
-
-
-}
-
+    display: flex;}
 .proces-titre {
     height: auto;
     width: 50%;
 
     display: flex;
-    align-items: flex-start;
-
-}
-
-
+    align-items: flex-start;}
 .proces-texte {
     height: auto;
     width: 50%;
     gap: 20px;
-
-
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
-    
-}
-
+    justify-content: flex-end;}
 /*pied de page*/
-
 footer { 
     flex: 1 1 100%; 
     text-align: center;
-    background-color: #B94335;
-}
+    background-color: #B94335;}
