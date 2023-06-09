@@ -48,8 +48,9 @@ Indiquer le gain de performance mesuré (1 pt) J'ai observé un gain de 700ko gr
 
 ### Performance - Amélioration 2
 
-Description + Pourquoi faire cette amélioration? (2 pts) Tri des fichiers inutiles et optimisation du code en enlevant les lignes et espaces inutiles
+Description + Pourquoi faire cette amélioration? (2 pts) Tri des fichiers inutiles et optimisation du code en enlevant les lignes et espaces inutiles.
 
-Indiquer le gain de performance mesuré (1 pt)
+Indiquer le gain de performance mesuré (1 pt) Avec l'optimisation du code je n'ai pas gangé beaucoup de place, c'est trop infime pour le mesurer. Mais avec le tri des fichiers inutiles,
+j'ai gagné 1,5 mo ce qui change beaucoup la performance du site.
 
 ---
