@@ -8,20 +8,25 @@ Améliorations en A11Y et Performance.
 
 ### Analyse de ma page (2 pts)
 
-Sur ma page j'ai détécté plusieurs problèmes notamment au niveau de la performance, des images trop lourdes, des lignes de codes inutile. La structure de mon code était parfois 
-bizarre car c'était un de mes premiers projet et donc pas ordré correctement pour la lecture vocal donc un site peu accessible.
+C'était l'un de mes premiers projet web, il y avait donc de nombreux problèmes dans l'écriture du code notamment avec un ordre parfois bizarre et donc pas accessible à la lecture vocal.
+Certain texte, surtout dans ma deuxième section n'était que très peu lisible car d'autres éléments en arrière plan n'étaient pas assez contrasté par apport à mon text. Mes balises alt
+n'étaient pas non plus optimisé. Il en manquait et surtout il n'y en avait qui indiquaient des éléments peu utile ce qui fait perdre du temps à l'utilisateur. 
 
 ### A11Y - Amélioration 1
 
-Description de votre amélioration: (2 pts)
+Description de votre amélioration: La première amélioration a été l'optimisation pour la lecture vocal. J'ai restructuré mon code dans le bon ordre de l'ecture et j'ai mis à jour
+les balises alt notamment enlevé celle des images qui étaient des images illustratives et donc peu utile d'en connaître le contenu pour une personne mal voyant. (2 pts)
 
-Dans quel cas cela aide l'utilisateur ? (2 pts)
+Dans quel cas cela aide l'utilisateur ? : Pour les personnes my voyante visiteurs de mon site, la restructuration de mon code et la mise à jour des balises permet au lecteur vocal
+d'être plus compréhesif et fluide pour l'utilisateur. Il pourra mieux naviguer sans accroches. (2 pts)
 
 ### A11Y - Amélioration 2
 
-Description de votre amélioration: (2 pts)
+Description de votre amélioration: Ajout de background derrière mes textes de la section 2 (fond vert) afin de laisser respirer le text et le rendre plus visible par dessus
+le circuit orange du dessous.(2 pts)
 
-Dans quel cas cela aide l'utilisateur ? (2 pts)
+Dans quel cas cela aide l'utilisateur ? : Ce changement permet à l'utilisateur de pouvoir lire le texte plus clairement sans problèmes de contrastes entre le texte blanc et le circuit orange.
+Pour les personnes atteint d'un handicape au niveau des couleurs celà peut également aider. (2 pts)
 
 ---
 
