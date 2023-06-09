@@ -34,21 +34,21 @@ Pour les personnes atteint d'un handicape au niveau des couleurs celà peut éga
 
 ### Analyse de ma page (2 pts)
 
-- Taille globale de votre page (le volume de données en Ko ou Mo).
+Les fichiers de mon site font 6 mo. 
 
-- Répartition entre les différents contenus (images, fontes, html/css/js...)
+J'ai créer un dossier hors site publié avec mes inspiration et les images au format brute. A l'intérieur du site j'ai j'ai fais un dossier fonts, un dossier sources avec logos et images.
 
-- Vitesse de chargement
+Le chargement du site est maintenant optimiser et rapide.
 
 ### Performance - Amélioration 1
 
-Description + Pourquoi faire cette amélioration? (2 pts)
+Description + Pourquoi faire cette amélioration? (2 pts) J'ai changer les formats des images en avif afin d'optimiser le temps de chargement et la taille de mon site internet.
 
-Indiquer le gain de performance mesuré (1 pt)
+Indiquer le gain de performance mesuré (1 pt) J'ai observé un gain de 700ko grace au changement de format des deux images qui était déjà optimiser dans les autres formats.
 
 ### Performance - Amélioration 2
 
-Description + Pourquoi faire cette amélioration? (2 pts)
+Description + Pourquoi faire cette amélioration? (2 pts) Tri des fichiers inutiles et optimisation du code en enlevant les lignes et espaces inutiles
 
 Indiquer le gain de performance mesuré (1 pt)
 
