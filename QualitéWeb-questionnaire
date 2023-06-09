@@ -8,7 +8,8 @@ Améliorations en A11Y et Performance.
 
 ### Analyse de ma page (2 pts)
 
-Listez et expliquez les problèmes d'accessibilité que vous avez détecté sur votre page.
+Sur ma page j'ai détécté plusieurs problèmes notamment au niveau de la performance, des images trop lourdes, des lignes de codes inutile. La structure de mon code était parfois 
+bizarre car c'était un de mes premiers projet et donc pas ordré correctement pour la lecture vocal donc un site peu accessible.
 
 ### A11Y - Amélioration 1
 
